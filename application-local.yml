@@ -1,3 +1,3 @@
 message:
-  name: local_test
-  secret: 1234
+  name: local_update
+  secret: 12345
